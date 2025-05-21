@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'PTSerif-Regular';
+    src: url("Fonts\PT_Serif\PTSerif-Regular.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'PTSerif-Bold';
+    src: url("Fonts\PT_Serif\PTSerif-Bold.woff2") format("woff2");
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'PTSerif-Italic';
+    src: url("Fonts\PT_Serif\PTSerif-Italic.woff2") format("woff2");
+    font-weight: 400;
+    font-style: italic;
+  }
+
+  @font-face {
+    font-family: 'Baskervville-Italic';
+    src: url("Fonts\Baskervville\Baskervville-Italic.woff2") format("woff2");
+    font-weight: 700;
+    font-style: italic;
+  }

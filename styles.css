@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+   
+}
+
+.header {
+    width: 100%;
+    height: 10vh;
+}
+
+.main {
+    height: 80vh;
+}
+
+.header_container {
+    display: flex;
+    justify-content: center;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+}
+
+.text {
+    margin-left: 2rem;
+}
+
+.phone,
+.mail {
+    display: flex;
+    flex-direction: row;
+}
+
+.phone {
+    margin-top: 0.5rem;
+    padding-bottom: 10px;
+    padding-top: 8px;
+}
+
+.list {
+    display: flex;
+    gap: 1rem;
+    list-style-type: none;
+}
+
+.footer {
+    text-align: center;
+    padding: 1.5rem;
+    color: gray;
+}
+
+a {
+    color: chocolate;
+}
+
+a:hover {
+    color: brown;
+}
+
+
+.h2,
+.h3 {
+    border-left: 5px solid chocolate;
+    padding-left: 10px;
+}
+
+.envelope {
+    padding-right: 8px;
+}
+
+.mobile {
+    padding-right: 8px;
+}
+
+h1,
+h2 {
+    font-family: 'Baskervville-Italic';
+    font-weight: 700;
+    font-size: 2rem;
+    color: gray;
+  
+}
+
+.span,
+.box-list {
+    font-family: "PTSerif-Regular", sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+.nav,
+.bottom_li,
+.phone,
+.mail {
+    font-family: "PTSerif-Regular", sans-serif;
+}
+
+.art {
+    border: 2px solid gray;
+}
